@@ -1,0 +1,17 @@
+{
+  "name": "jankx/jankx",
+  "description": "Jankx is a powerful WordPress theme framework. High performance, compatible, easy to use and develop",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Puleeno Nguyen",
+      "email": "puleeno@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "jankx/core": "dev-master"
+  }
+}
