@@ -9,6 +9,8 @@
             "email": "puleeno@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "ramphor/includes": "^5.5",
+        "ramphor/admin": "^5.5"
+    }
 }

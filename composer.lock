@@ -1,0 +1,74 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "54af145fbda2288f9282f969fc049363",
+    "packages": [
+        {
+            "name": "ramphor/admin",
+            "version": "5.5.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ramphor/wordpress-core-admin.git",
+                "reference": "0607683fb3c88a9c4baf99d20b8a4caad326d069"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ramphor/wordpress-core-admin/zipball/0607683fb3c88a9c4baf99d20b8a4caad326d069",
+                "reference": "0607683fb3c88a9c4baf99d20b8a4caad326d069",
+                "shasum": ""
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0-only"
+            ],
+            "authors": [
+                {
+                    "name": "Puleeno Nguyen",
+                    "email": "puleeno@gmail.com"
+                }
+            ],
+            "description": "The admin of WordPress core",
+            "time": "2020-09-21T12:03:53+00:00"
+        },
+        {
+            "name": "ramphor/includes",
+            "version": "5.5.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ramphor/wordpress-core-includes.git",
+                "reference": "f4361cac42d8d1768dcfb32d41dd46e620694a10"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ramphor/wordpress-core-includes/zipball/f4361cac42d8d1768dcfb32d41dd46e620694a10",
+                "reference": "f4361cac42d8d1768dcfb32d41dd46e620694a10",
+                "shasum": ""
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0-only"
+            ],
+            "authors": [
+                {
+                    "name": "Puleeno Nguyen",
+                    "email": "puleeno@gmail.com"
+                }
+            ],
+            "description": "The includes library of WordPress core",
+            "time": "2020-09-21T12:05:03+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
