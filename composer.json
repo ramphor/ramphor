@@ -1,0 +1,14 @@
+{
+    "name": "ramphor/ramphor",
+    "description": "Ramphor Framework is an Extended WordPress core to build a web app faster, security and friendly with WordPress and PHP Developers",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
