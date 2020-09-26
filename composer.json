@@ -11,7 +11,8 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "ramphor/framework": "dev-master"
+        "ramphor/framework": "dev-master",
+        "wp-cli/wp-cli": "^2.5@dev"
     },
     "autoload": {
         "psr-4": {
