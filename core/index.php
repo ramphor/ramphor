@@ -14,4 +14,4 @@
 define( 'WP_USE_THEMES', true );
 
 /** Loads the WordPress Environment and Template */
-require realpath(dirname(__FILE__) . '/../core') . '/wp-blog-header.php';
+require __DIR__ . '/wp-blog-header.php';
