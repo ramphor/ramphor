@@ -1,5 +1,5 @@
 <?php
 namespace App\Models;
 
-class User {
+class Post {
 }
